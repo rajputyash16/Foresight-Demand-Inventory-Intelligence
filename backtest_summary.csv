@@ -1,0 +1,4 @@
+,0
+avg_model_wape,0.1989
+avg_baseline_wape,0.2364
+model_beats_baseline,True
