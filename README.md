@@ -159,16 +159,3 @@ After deployment, verify:
 - The forecast interval is a **planning band**, not a calibrated statistical confidence interval.
 - No live ERP/WMS integration, supplier selection, price optimisation, streaming data or automated purchase-order placement is included.
 
-## Submission checklist
-
-- [ ] Public GitHub repository
-- [ ] Public Streamlit dashboard
-- [ ] Public scoring API
-- [ ] 3–5 minute demo video
-- [ ] Short feedback/reflection video
-- [ ] Project report
-- [ ] Executive readout
-- [ ] Test every public link in an incognito window before submitting
-
----
-*Deliver it like a consultant. Defend it like a scientist.*
